@@ -1,6 +1,12 @@
+# Source data
 barcodes.tsv
 genes.tsv
 matrix.mtx
+microarray_TGFb1_forMarcell.csv
+
+# Dotfiles/paths
 .ipynb_checkpoints
+
+# Destination data
 write
 analysis/graveyard
