@@ -3,6 +3,8 @@ barcodes.tsv
 genes.tsv
 matrix.mtx
 microarray_TGFb1_forMarcell.csv
+*.gtf
+*.bam
 
 # Dotfiles/paths
 .ipynb_checkpoints
