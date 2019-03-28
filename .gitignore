@@ -2,6 +2,7 @@
 barcodes.tsv
 genes.tsv
 matrix.mtx
+analysis/source
 microarray_TGFb1_forMarcell.csv
 
 # Dotfiles/paths
